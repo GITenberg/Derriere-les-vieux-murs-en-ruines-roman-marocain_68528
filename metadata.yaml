@@ -1,5 +1,8 @@
 _repo: Derriere-les-vieux-murs-en-ruines-roman-marocain_68528
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68528-h/images/cover.jpg
 creator:
   author:
     agent_name: Lens, A. R. de
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Aline_R%C3%A9veillaud_de_Lens
     - https://fr.wikipedia.org/wiki/Aline_R%C3%A9veillaud_de_Lens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68528#Derriere-les-vieux-murs-en-ruines-roman-marocain
 gutenberg_issued: '2022-07-15'
 identifiers:
   gutenberg: '68528'
